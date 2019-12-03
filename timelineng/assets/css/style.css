@@ -213,7 +213,7 @@ No se usa*/
 	padding-top:30px;
 	padding-bottom: 500px;
 	/*background-color: #00000026;*/
-	background-image: url(/assets/images/fondo_linea.png);
+	background-image: url(../images/fondo_linea.png);
 }
 .blackbody .ss-container {
 	padding-top:50px;
